@@ -1,0 +1,19 @@
+[
+  {
+    "thread_id": "7d28976f-f747-4d48-b6db-edb98ec7ec25",
+    "title": "new_chat",
+    "research": 1
+  },
+  {
+    "thread_id": "412b28b5-7eeb-4401-8188-42c530e62534",
+    "title": "new_chat",
+    "research": 1,
+    "download": "http://localhost:8000/pdfs/24694ef0-0f20-4ead-ac31-11bad1dc3831.pdf"
+  },
+  {
+    "thread_id": "2f1acbc1-943a-4fff-b8e7-e5a85e7591a9",
+    "title": "new_chat",
+    "research": 1,
+    "download": "http://localhost:8000/pdfs/d070da00-cef9-49a6-a6ac-45babdb115ed.pdf"
+  }
+]
